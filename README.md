@@ -1,4 +1,2 @@
-Des solutions pédagogiques génériques à des problèmes récurrents d'enseignement.
-Des exemples d'adaptation de ces solutions à l'enseignement de l'informatique en école d'ingénieur.
-
-[Découvrir](https://github.com/benel/Teaching-patterns/issues)
+- Des [solutions](https://github.com/benel/Teaching-patterns/issues?q=is%3Aopen+is%3Aissue+label%3A%22Solution+générique%22) pédagogiques génériques à des [problèmes](https://github.com/benel/Teaching-patterns/issues?q=is%3Aopen+is%3Aissue+label%3A%22Problème+à+résoudre%22) récurrents d'enseignement.
+- Des [exemples](https://github.com/benel/Teaching-patterns/issues?q=is%3Aopen+is%3Aissue+label%3A%22Exemple+de+mise+en+œuvre%22) d'adaptation de ces solutions à l'enseignement de l'informatique en école d'ingénieur.
